@@ -1,0 +1,64 @@
+html  body {
+    width: 400px;
+    margin: auto;
+}
+ .first {
+     width: 50px;
+     height: 100px;
+     background-color: rgb(65, 65, 245);
+     color: white;
+     float: left;
+     
+
+ }
+ .second{
+    width: 350px;
+    height: 60px;
+    background-color: rgb(0, 204, 255);
+    float: right; 
+    
+ }
+ .third{
+    width: 350px;
+    height: 40px;
+    background-color: rgb(153, 203, 216); 
+    float: right;
+    
+ }
+ .i{
+    margin: 20px 0px 0px 17.5px;
+ }
+ .tri {
+    
+ }
+ .p{
+    
+ } 
+ .krest{
+    float: right;
+    margin: 15px 10px 0px 0px;
+    height: 20px;
+    width: 20px;
+    font-size: small;
+ }
+ .pernadpis{
+     height: 20px;
+     width: 260px;
+    float: left;
+    margin: 25px 0px 0px 10px;
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: 550;
+
+ }
+ .trinanpis{
+    height: 20px;
+    width: 260px;
+   float: left;
+   margin: -5px 0px 0px 10px; 
+   font-family: 'Courier New', Courier, monospace;
+   
+ }
+ .All{
+    border-radius: 10px;
+ }
